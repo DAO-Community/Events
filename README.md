@@ -3,7 +3,7 @@
 <img width="957" alt="GH" src="https://user-images.githubusercontent.com/49915749/196942213-b763661c-63d8-40df-8ef8-47759561dddf.png">
 
 
-# GitHub Events
+# DAO Community Events
 
 Connect and discuss conferences, meetups, and hackathons around the world with the DAO Community.
 
@@ -34,6 +34,8 @@ Connect and discuss conferences, meetups, and hackathons around the world with t
 - GitHub Universe 2024 [🔗‍💥]()
 - SUSE Con 2024 [🔗‍💥]()
 - Advent of Code 2024 [🔗‍💥]()
+
+[\\]: # Check [The Linux Foundation Events Calendar](https://events.linuxfoundation.org/about/calendar/)
 
 ### Disclaimer
 
