@@ -35,7 +35,7 @@ Connect and discuss conferences, meetups, and hackathons around the world with t
 - SUSE Con 2024 [🔗‍💥]()
 - Advent of Code 2024 [🔗‍💥]()
 
-[\\]: # Check [The Linux Foundation Events Calendar](https://events.linuxfoundation.org/about/calendar/)
+[\\]: # "Check [The Linux Foundation Events Calendar | Upcoming Events](https://events.linuxfoundation.org/about/calendar/)"
 
 ### Disclaimer
 
