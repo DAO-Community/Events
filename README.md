@@ -21,7 +21,22 @@ Connect and discuss conferences, meetups, and hackathons around the world with t
 * [DAO Community Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)
 * [DAO Community Forum Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-forum-code-of-conduct)
 
+### External Events
+
+[\\]: # "Add external events here."
+
+#### Local
+
+- DevCon 2024 [🔗‍💥]()
+
+#### Global
+
+- GitHub Universe 2024 [🔗‍💥]()
+- SUSE Con 2024 [🔗‍💥]()
+- Advent of Code 2024 [🔗‍💥]()
 
 ### Disclaimer
 
 Any statement in this repository that is not purely historical is considered a forward-looking statement. Forward-looking statements included in this repository are based on information available to GitHub as of the date they are made, and GitHub assumes no obligation to update any forward-looking statements. The forward-looking comments in the public feedback discussions do not represent a commitment, guarantee, obligation or promise to deliver any product or feature, or to deliver any product and feature by any particular date, and are intended to outline the general development plans. Customers should not rely on these public feedback discussions to make any purchasing decision.
+
+[\\]: # "EOF"
