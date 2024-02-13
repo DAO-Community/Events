@@ -27,13 +27,15 @@ Connect and discuss conferences, meetups, and hackathons around the world with t
 
 #### Local
 
-- DevCon 2024 [🔗‍💥]()
+- PyConPH 2024 [🔗](https://pycon-2024.python.ph/) - 2024-02-(25,26)
+
+[\\]: # "- DevCon 2024 [🔗‍💥]"
 
 #### Global
 
-- GitHub Universe 2024 [🔗‍💥]()
-- SUSE Con 2024 [🔗‍💥]()
-- Advent of Code 2024 [🔗‍💥]()
+[\\]: # "- GitHub Universe 2024 [🔗‍💥]()"
+[\\]: # "- SUSE Con 2024 [🔗‍💥]()"
+[\\]: # "- Advent of Code 2024 [🔗‍💥]()"
 
 [\\]: # "Check [The Linux Foundation Events Calendar | Upcoming Events](https://events.linuxfoundation.org/about/calendar/)"
 
